@@ -1,0 +1,21 @@
+User 
+As a user, I want to request for items of my choice by filling up a form so that I can display information about me and why I want that thing.
+As a user, I want to receive a notification if someone has sent me the item so that I know that my request has been responded to.
+As a user, I want to confirm that I have received my item so that the donor knows that their book has reached the user.
+As a user, I would like to thank the person who gave me the item so that they know the gratitude I feel for them.
+
+User workflow (Take)
+1. The user logs into their account.
+2. The user sees two tabs - Give and Take.
+3. The user clicks on Take.
+4. If this user has no pending requests - he/she is taken to a page where he/she can request for an item by filling up a form including information like name, age, things they want, reason they want it etc.
+5. If this is the first time the user is requesting the book, the user has to enter other details like name, age, grade, school etc. before the request of the user is submitted.
+6. If this is not the first time, the user can immediately submit the request after confirming that the address is the same.
+7. If the user has a pending request, he/she sees the message that his/her earlier request is pending and he/she cannot request another thing until someone commits on his/her request or cancels his earlier request.
+8. Upon submitting the request, the user can see his/her request live on the request page.
+
+User workflow (Give)
+1. The giver logs into their account.
+2. The giver sees two tabs - Give an Take.
+3. The giver clicks on Give to see all the things item.
+4. The giver can look at the details of the request and respond to any requested item by sending the item to the person.
